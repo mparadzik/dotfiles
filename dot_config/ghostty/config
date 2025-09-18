@@ -1,0 +1,2 @@
+command = /bin/zsh -c '~/.config/ghostty/startup.sh'
+theme = GruvboxDark
